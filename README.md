@@ -25,6 +25,9 @@ reviews_per_month | Number of reviews per month on listing
 calculated_host_listings_count | Number of listings per host
 availability_365 | Number of days for which listing was available in the year of 2019
 
-
+element {
+Goal
+  font-size: 75;
+}
 
 
